@@ -1,0 +1,1 @@
+{"version":3,"file":"videoRecordingDetails.js","sourceRoot":"","sources":["../../src/schemas/videoRecordingDetails.ts"],"names":[],"mappings":";;;;;AAAA,0DAAkC;AAElC,MAAM,qBAAqB,GAAG;IAC5B,QAAQ,EAAE,kBAAQ;IAClB,mBAAmB,EAAE,MAAM;IAC3B,aAAa,EAAE,MAAM;CACtB,CAAC;AAEF,kBAAe,qBAAqB,CAAC"}

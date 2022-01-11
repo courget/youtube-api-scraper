@@ -1,0 +1,1 @@
+{"version":3,"file":"videoFileDetailsVideoStream.js","sourceRoot":"","sources":["../../src/schemas/videoFileDetailsVideoStream.ts"],"names":[],"mappings":";;AAAA,MAAM,2BAA2B,GAAG;IAClC,WAAW,EAAE,MAAM;IACnB,UAAU,EAAE,MAAM;IAClB,KAAK,EAAE,MAAM;IACb,YAAY,EAAE,MAAM;IACpB,YAAY,EAAE,MAAM;IACpB,QAAQ,EAAE,MAAM;IAChB,MAAM,EAAE,MAAM;IACd,WAAW,EAAE,MAAM;CACpB,CAAC;AAEF,kBAAe,2BAA2B,CAAC"}

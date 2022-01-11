@@ -1,0 +1,1 @@
+{"version":3,"file":"channelBrandingSettings.js","sourceRoot":"","sources":["../../src/schemas/channelBrandingSettings.ts"],"names":[],"mappings":";;;;;AAAA,wEAAgD;AAChD,oEAA4C;AAC5C,oEAA4C;AAC5C,oEAA4C;AAE5C,MAAM,uBAAuB,GAAG;IAC9B,OAAO,EAAE,yBAAe;IACxB,KAAK,EAAE,CAAC,uBAAa,CAAC;IACtB,KAAK,EAAE,uBAAa;IACpB,KAAK,EAAE,uBAAa;CACrB,CAAC;AAEF,kBAAe,uBAAuB,CAAC"}

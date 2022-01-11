@@ -1,0 +1,1 @@
+{"version":3,"file":"videoSuggestions.js","sourceRoot":"","sources":["../../src/schemas/videoSuggestions.ts"],"names":[],"mappings":";;;;;AAAA,oGAA4E;AAE5E,MAAM,gBAAgB,GAAG;IACvB,iBAAiB,EAAE,CAAC,MAAM,CAAC;IAC3B,gBAAgB,EAAE,CAAC,MAAM,CAAC;IAC1B,eAAe,EAAE,CAAC,MAAM,CAAC;IACzB,kBAAkB,EAAE,CAAC,MAAM,CAAC;IAC5B,cAAc,EAAE,CAAC,uCAA6B,CAAC;CAChD,CAAC;AAEF,kBAAe,gBAAgB,CAAC"}

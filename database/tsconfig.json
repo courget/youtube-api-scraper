@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "lib": ["es2021"],
+    "target": "es2015",
+    "module": "commonjs",
+
+    "outDir": "lib",
+    "sourceMap": true,
+    "declaration": true,
+
+    "strict": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "noImplicitAny": true
+  },
+  "include": ["src/**/*"],
+  "exclude": ["dist", "node_modules"]
+}

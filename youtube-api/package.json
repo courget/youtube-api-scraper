@@ -1,0 +1,31 @@
+{
+  "name": "@youtube-api-scraper/youtube-api",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "scripts": {
+    "clean": "rm -rf lib",
+    "build": "NODE_ENV=production tsc -p tsconfig.json",
+    "format": "prettier --ignore-path .gitignore --write \"**/*.+(js|ts|json)\"",
+    "lint": "eslint src/*",
+    "lint:fix": "npm run format"
+  },
+  "dependencies": {
+    "@youtube-api-scraper/google-api": "./google-api",
+    "googleapis": "^92.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.7",
+    "@typescript-eslint/eslint-plugin": "^5.4.0",
+    "@typescript-eslint/parser": "^5.4.0",
+    "eslint": "^8.2.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-airbnb-typescript": "^16.0.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-import-resolver-typescript": "^2.5.0",
+    "eslint-plugin-import": "^2.25.3",
+    "prettier": "^2.4.1",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.4.4"
+  }
+}

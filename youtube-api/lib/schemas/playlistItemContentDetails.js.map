@@ -1,0 +1,1 @@
+{"version":3,"file":"playlistItemContentDetails.js","sourceRoot":"","sources":["../../src/schemas/playlistItemContentDetails.ts"],"names":[],"mappings":";;AAAA,MAAM,0BAA0B,GAAG;IACjC,KAAK,EAAE,MAAM;IACb,IAAI,EAAE,MAAM;IACZ,OAAO,EAAE,MAAM;IACf,OAAO,EAAE,MAAM;IACf,gBAAgB,EAAE,MAAM;CACzB,CAAC;AAEF,kBAAe,0BAA0B,CAAC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"videoPlayer.js","sourceRoot":"","sources":["../../src/schemas/videoPlayer.ts"],"names":[],"mappings":";;AAAA,MAAM,WAAW,GAAG;IAClB,WAAW,EAAE,MAAM;IACnB,SAAS,EAAE,MAAM;IACjB,UAAU,EAAE,MAAM;CACnB,CAAC;AAEF,kBAAe,WAAW,CAAC"}

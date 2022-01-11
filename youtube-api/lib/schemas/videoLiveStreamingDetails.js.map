@@ -1,0 +1,1 @@
+{"version":3,"file":"videoLiveStreamingDetails.js","sourceRoot":"","sources":["../../src/schemas/videoLiveStreamingDetails.ts"],"names":[],"mappings":";;AAAA,MAAM,yBAAyB,GAAG;IAChC,gBAAgB,EAAE,MAAM;IACxB,aAAa,EAAE,MAAM;IACrB,eAAe,EAAE,MAAM;IACvB,iBAAiB,EAAE,MAAM;IACzB,gBAAgB,EAAE,MAAM;IACxB,kBAAkB,EAAE,MAAM;CAC3B,CAAC;AAEF,kBAAe,yBAAyB,CAAC"}

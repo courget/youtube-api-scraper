@@ -1,0 +1,1 @@
+{"version":3,"file":"channelStatus.js","sourceRoot":"","sources":["../../src/schemas/channelStatus.ts"],"names":[],"mappings":";;AAAA,MAAM,aAAa,GAAG;IACpB,QAAQ,EAAE,OAAO;IACjB,gBAAgB,EAAE,MAAM;IACxB,WAAW,EAAE,OAAO;IACpB,aAAa,EAAE,MAAM;IACrB,uBAAuB,EAAE,OAAO;CACjC,CAAC;AAEF,kBAAe,aAAa,CAAC"}
